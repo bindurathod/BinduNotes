@@ -1,0 +1,24 @@
+.App1 {
+    width:50%;
+    height: auto;
+    margin:0 auto;
+    text-align:center;
+    font-family: sans-serif
+}
+.App input{
+    
+    margin: 30px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: source-code-pro, Menlo, Monaco,Consolas, "Courier New";
+}
+
+.form {
+    padding: 20px;
+    background-color: #f7f8f9;
+    border-radius: 0.2rem;
+  }
+  
+  .container {
+    padding: 0;
+  }
